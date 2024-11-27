@@ -1,0 +1,7 @@
+# 忽略 .DS_Store 文件
+.DS_Store
+
+# 忽略 .history 文件夹及其内容
+.history/
+
+.vscode/
